@@ -56,7 +56,7 @@ A simple and secure console-based banking system built using **Python**. This pr
 
 ## 🎥 Video Demonstration
 
-📺 [Watch the 5–7 Minute Demo Here](htt)
+📺 [Watch the 5–7 Minute Demo Here](https://youtu.be/ArI9lr4HJyo)
 
 ---
 
