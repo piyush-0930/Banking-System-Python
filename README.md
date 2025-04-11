@@ -80,6 +80,3 @@ This project is licensed under the MIT License. Feel free to use and modify.
   [LinkedIn](https://www.linkedin.com/in/piyushaggarwal30) | [GitHub](https://github.com/piyush-0930)
 ```
 
----
-
-Let me know once you've uploaded your video—I’ll update that section too. Or if you want a short version of the README or a Hindi-English mix, I can help with that too.
